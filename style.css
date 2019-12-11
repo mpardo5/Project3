@@ -1,0 +1,199 @@
+html{
+    margin: 10px 10px 10px 10px;
+    padding-top: 60px;
+    background-color: white;
+    
+}
+
+.top h1{
+    text-align: right;
+    color: cadetblue;
+    font-size: 40px;
+    position: absolute;
+    top: -40px;
+    right: 50px;
+    font-size: 65px;
+    font-family: 'Lobster Two', cursive;
+}
+
+.meetteam h2{
+    color: cadetblue;
+    font-size: 32px;
+    position: absolute;
+    top: 10px;
+    left: 40px;   
+    font-family: 'Vidaloka', serif;
+    
+}
+
+.service h2{
+    color: cadetblue;
+    font-size: 32px;
+    position: absolute;
+    top: 10px;
+    left: 350px;
+    font-family: 'Vidaloka', serif;
+    
+}
+a:hover{
+    color: aliceblue;
+    font-size: 150%;
+}
+.contact h2{
+    color: cadetblue;
+    font-size: 32px;
+    position: absolute;
+    top: 10px;
+    left: 550px;
+    font-family: 'Vidaloka', serif;
+}
+
+<style>
+
+
+.image{
+    position: relative;
+    text-align: center;
+    color:saddlebrown;
+}
+.top-right{
+    position: absolute;
+    top:30%;
+    left: 60%;
+    transform: translate (-50%, -50%);
+    font-size: 25px;
+    color: saddlebrown;
+    font-family: 'Assistant', sans-serif;
+}  
+.text-block{
+    position: absolute;
+    bottom: 340px;
+    right: 270px;
+    background-color: cadetblue;
+    color:white;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-size: 20px;
+    font-family: 'Vidaloka', serif;
+}
+.text-block1{
+    position: absolute;
+    top: 120px;
+    left: 800px;
+    background-color: cadetblue;
+    color: white;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-size: 20px;
+}
+.footer{
+    position: absolute;
+    top:92%;
+    left: 20%;
+    transform: translate (-50%, -50%);
+    font-size: 30px;
+    color: cadetblue;
+}
+
+.time{
+    position: absolute;
+    top: 96%;
+    left: 68%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: cadetblue;
+}
+.title{
+    position: absolute;
+    top: 230px;
+    left: 220px;
+    font-size: 27px;
+    color: saddlebrown;
+    font-family: 'Neuton', serif;
+}
+.haircuts{
+    position: absolute;
+    top: 330px;
+    left: 150px;
+}
+.haircutsstyles{
+    position: absolute;
+    top: 700px;
+    left: 165px;
+    font-size: 22px;
+    color: saddlebrown;
+    line-height: 35px;
+}
+.haircutprices{
+    position: absolute;
+    top: 700px;
+    left: 415px;
+    font-size: 22px;
+    color: saddlebrown;
+    line-height: 35px;
+}
+.title1{
+    position: absolute;
+    top: 230px;
+    left: 905px;
+    font-size: 27px;
+    color: saddlebrown;
+    font-family: 'Neuton', serif;
+}
+.haircolor{
+    position: absolute;
+    top: 330px;
+    left: 800px;
+}
+.haircolorstyles{
+    position: absolute;
+    top: 700px;
+    left: 810px;
+    font-size: 22px;
+    color: saddlebrown;
+    line-height: 37px;
+}
+.haircolorprices{
+    position: absolute;
+    top: 700px;
+    left: 1080px;
+    font-size: 22px;
+    color: saddlebrown;
+    line-height: 37px;
+}
+.title2{
+    position: absolute;
+    top: 230px;
+    left: 1555px;
+    font-size: 27px;
+    color: saddlebrown;
+    font-family: 'Neuton', serif;
+}
+.other{
+    position: absolute;
+    top: 330px;
+    left: 1450px;
+    
+}
+.otherstyles{
+    position: absolute;
+    top: 700px;
+    left: 1465px;
+    color: saddlebrown;
+    font-size: 22px;
+    line-height: 37px;
+}
+.otherprices{
+    position: absolute;
+    top: 700px;
+    left: 1710px;
+    font-size: 22px;
+    color: saddlebrown;
+    line-height: 37px;
+}
+
+
